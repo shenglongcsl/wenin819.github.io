@@ -1,0 +1,13 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: wenin819.vicp.net
+url: http://wenin819.vicp.net
+feed: /atom.xml
+author_info: <a href="http://wenin819.vicp.net/">wenin819</a>
+
+encoding: UTF-8

@@ -1,3 +1,10 @@
+---
+layout: post
+title: 大学生心理健康
+description: 清华大学公开课:大学生心理健康
+category: blog
+---
+
 ## 第一课 生涯规划
 ### 主要内容
 1. 什么是生涯规划
