@@ -14,7 +14,7 @@ layout: home
 
         <ul class="artical-list">
 		<li>
-			<h2><a href="/readme.html">说明</a></h2>
+			<h2><a href="/README.html">说明</a></h2>
 			<div class="title-desc">关于本博客的说明</div>
 		</li>
         {% for post in site.categories.blog %}
