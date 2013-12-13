@@ -14,4 +14,4 @@ category: blog
 本博客的访问地址为[wenin819][]，网站模板来自[BeiYuu][]
 
  [BeiYuu]:    http://beiyuu.com  "BeiYuu"
- [wenin819]:   {{ site.baseurl }} {{ site.title }}
+ [wenin819]:   http://wenin819.com "wenin819"
