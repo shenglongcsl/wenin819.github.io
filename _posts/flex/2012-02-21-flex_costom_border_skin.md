@@ -2,7 +2,7 @@
 layout: post
 title: Flex borderSkin绘自定义宽度边框
 description: Flex borderSkin绘自定义宽度边框的实例
-category: blog
+category: program
 ---
 
 项目打印需要，要有边框，而且要设置边框的宽度。我们项目是用Twaver flex做的，经过查资料和尝试，采用在Network的rootCanvas上绘制边框。但Canvas的样式有限，不能直接修改边框宽度。经过一番尝试，通过borderSkin样式能达到我要的效果。由于在网上没有找到类似的文章，所以自己记录下，方便自己查阅，以及和大家分享讨论下这个方法的好坏。
