@@ -6,7 +6,7 @@ paginate: 8
 permalink: /:title
 
 title: wenin819
-baseurl: http://wenin819.com
+url: http://wenin819.com
 img_bsurl: http://wenin819.com
 feed: /atom.xml
 author_info: <a href="http://wenin819.com/">wenin819</a>
