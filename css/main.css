@@ -17,6 +17,9 @@ body {
 .container-narrow > hr {
   margin: 30px 0;
 }
+.Article-interactions {
+  margin-top: 30px;
+}
 
 a {
     color: #069;
