@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Spring中@Autowired注解和@Resource注解的区别
 category: program
 tags: spring, java

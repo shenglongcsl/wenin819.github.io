@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: 修改oracle数据库的连接数
 category: program
 description: 修改oracle数据库的连接数

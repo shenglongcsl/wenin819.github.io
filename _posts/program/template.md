@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: 编程之路
 category: program
 description: 记录编程的点点滴滴

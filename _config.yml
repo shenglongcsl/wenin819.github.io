@@ -2,14 +2,13 @@ auto: true
 encoding: UTF-8
 
 pygments: true
-paginate: 8
+# paginate: 8
 permalink: /:title
 
 markdown: rdiscount
 
 title: wenin819
+nickname: 知道2懂得
 url: http://wenin819.com
-img_bsurl: http://wenin819.com
-feed: /atom.xml
-author_info: <a href="http://wenin819.com/">wenin819</a>
-
+img_url: http://wenin819.com
+feed: /feed.xml

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: 大学生心理健康
 description: 清华大学公开课:大学生心理健康
 category: blog

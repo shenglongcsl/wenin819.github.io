@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Flex borderSkin绘自定义宽度边框
 description: Flex borderSkin绘自定义宽度边框的实例
 category: program

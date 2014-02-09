@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<script type="text/javascript">
+	// g+
+	window.___gcfg = {lang: 'zh-CN'};
+	(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+</script>
+
+<div class="Content" role="main">
+	<article class="Article">
+		<div class="container">
+			<header class="Article-header text-center">
+				<h1 class="Article-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+				<div class="Article-data">
+					<p class="txt-small txt-mutee">{{ page.date | date:"%Y-%m-%d" }}</p>
+				</div>
+			</header>
+		</div>
+		<div class="container">
+			<div class="Article-body">
+				{{ content }}
+			</div>
+			<div class="Article-interactions">
+				<div class="pull-right">
+					<g:plusone></g:plusone>
+				</div>
+				<div class="share-opt">
+					<a href="javascript:void();" onclick="displayDisqus();">点击查看评论</a>
+				</div>
+			</div>
+			<div id="disqus_thread"></div>
+		</div>
+	</article>
+</div>
+
+<script type="text/javascript">
+	var disqus_shortname = 'wenin819';
+	function displayDisqus() {
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	};
+</script>
+<noscript>请启用JavaScript，才能查看或进行评论</noscript>
+<script src="/js/blogstyle.js" ></script>

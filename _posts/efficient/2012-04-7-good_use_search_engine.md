@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: 善用搜索引擎
 category: efficient
 description: 介绍搜索引擎的一些使用技巧，以Google为例

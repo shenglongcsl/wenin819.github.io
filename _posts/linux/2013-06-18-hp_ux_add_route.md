@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: 在HP-UX B.11.31添加路由的方法
 category: program
 description: 在HP-UX B.11.31添加路由的方法

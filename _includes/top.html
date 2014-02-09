@@ -1,0 +1,30 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="author" content="{{ site.title }}" />
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}wenin819's Blog{% endif %}" />
+  <meta name="keywords" content="wenin819{% if page.tags %},{{ page.tags }}{% endif %}" />
+  <link rel="icon" type="image/png" href="https://s.gravatar.com/avatar/d5a97fee279a30ff64abaeb2abba9574?s=32" />
+  <link rel="alternate" type="application/rss+xml" title="知道2懂得的博客，记录成长的点点滴滴 - Feed" href="/feed.xml" />
+  <div hidden="true" itemscope itemtype="http://data-vocabulary.org/Person">
+    我的名字是 <span itemprop="name">wenin819</span>，
+    我的主页是：
+    <a href="{{ site.url }}" itemprop="url">{{ site.url }}</a>。
+    我是<span itemprop="title">软件工程师</span>
+  </div>
+
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="{{ site.feed }}" />
+  <link rel="stylesheet" href="http://cdn.bootcss.com/twitter-bootstrap/3.0.3/css/bootstrap.min.css" />
+  <link href="http://cdn.bootcss.com/highlight.js/7.3/styles/github.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" />
+  <link rel="stylesheet" href="{{ site.url }}/css/normalize.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/main.css" />
+  <script src="http://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
+  <!--[if lt IE 9]>
+  <script src="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.min.js"></script>
+    <script src="http://cdn.bootcss.com/respond.js/1.3.0/respond.min.js"></script>
+      <![endif]-->
+</head>

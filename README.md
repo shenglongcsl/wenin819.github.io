@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: blog
 title: wenin819的博客
 description: 只要功夫深，铁杵磨成针
-category: blog
 ---
 
 不急功近利，每天进步一点点。
@@ -11,7 +10,6 @@ category: blog
 
 - - -
 说明：
-本博客的访问地址为[wenin819][]，网站模板来自[BeiYuu][]
+本博客的访问地址为[wenin819][]
 
- [BeiYuu]:    http://beiyuu.com  "BeiYuu"
  [wenin819]:   http://wenin819.com "wenin819"
