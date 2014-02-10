@@ -1,5 +1,5 @@
 html {
-    background: #f7f7f7;
+    background: #E8E8E8;
     color: #333;
     font: 16px/1.4 Open Sans, Helvetica, Arial, sans-serif;
 }
@@ -196,7 +196,7 @@ p {
 
 @media screen and (max-width: 540px) {
     body {
-        padding: 20px;
+        padding: 60px 10px 10px 10px;;
         font-size: 0.875em;
     }
 
