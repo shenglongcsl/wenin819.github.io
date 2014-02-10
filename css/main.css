@@ -218,6 +218,10 @@ p {
     .share-opt {
         float: none;
         display: inline-block;
-        margin: 0 1em 0.5em;
+        margin: 0;
     }
+
+	.navbar-brand {
+		padding: 15px 1px 15px 15px;
+	}
 }
