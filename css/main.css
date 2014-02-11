@@ -1,13 +1,20 @@
 html {
     background: #E8E8E8;
     color: #333;
-    font: 16px/1.4 Open Sans, Helvetica, Arial, sans-serif;
 }
 
 body {
     max-width: 880px;
     padding: 75px 30px 30px 30px;
     margin: 0 auto;
+}
+
+html, body {
+    font-family: 微软雅黑,Open Sans,Verdana,sans-serif,宋体;
+}
+
+pre, code {
+    font-family: Consolas,Open Sans,Bitstream Vera Sans Mono,Courier New,Courier,monospace !important;
 }
 
 /* Customize container */
