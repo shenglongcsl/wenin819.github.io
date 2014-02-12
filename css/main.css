@@ -219,6 +219,10 @@ p {
         font-size: 0.875em;
     }
 
+    .col-1 h2 a {
+        font-size: 0.5em;
+    }
+
     .site-box {
         padding: 30px 30px 0;
     }
