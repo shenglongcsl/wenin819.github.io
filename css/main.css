@@ -9,12 +9,20 @@ body {
     margin: 0 auto;
 }
 
-html, body {
-    font-family: 微软雅黑,Open Sans,Verdana,sans-serif,宋体;
+html, body, h1, h2, h3, h4, h5, h6 {
+    font-family: 微软雅黑,"Open Sans",Verdana,sans-serif,宋体;
+}
+
+.col-1 h2 a {
+    font-size: 0.75em;
 }
 
 pre, code {
-    font-family: Consolas,Open Sans,Bitstream Vera Sans Mono,Courier New,Courier,monospace !important;
+    font-family: Consolas,"Open Sans","Bitstream Vera Sans Mono","Courier New",Courier,monospace !important;
+}
+
+p {
+    text-indent: 2em;
 }
 
 /* Customize container */
@@ -38,6 +46,10 @@ a:focus,
 a:active {
     text-decoration: underline;
 }
+a:visited {
+    color: #609;
+}
+
 
 h1,
 h2 {
