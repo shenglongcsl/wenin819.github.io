@@ -25,6 +25,14 @@ p {
     text-indent: 2em;
 }
 
+ul, ol {
+    list-style-position: inside;
+}
+
+blockquote p {
+    font-size: 1em !important;
+}
+
 /* Customize container */
 .container {
   max-width: 820px;
@@ -41,15 +49,14 @@ a {
     text-decoration: none;
 }
 
+a:visited {
+    color: #609;
+}
 a:hover,
 a:focus,
 a:active {
     text-decoration: underline;
 }
-a:visited {
-    color: #609;
-}
-
 
 h1,
 h2 {
