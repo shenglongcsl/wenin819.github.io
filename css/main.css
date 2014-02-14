@@ -10,7 +10,7 @@ body {
 }
 
 html, body, h1, h2, h3, h4, h5, h6 {
-  font-family: 微软雅黑,"Open Sans",Verdana,sans-serif,宋体;
+  font-family: "Microsoft YaHei","微软雅黑",Arial,sans-serif,宋体 !important;
 }
 
 .col-1 h2 a {
@@ -18,7 +18,7 @@ html, body, h1, h2, h3, h4, h5, h6 {
 }
 
 pre, code {
-  font-family: Consolas,"Open Sans","Bitstream Vera Sans Mono","Courier New",Courier,monospace !important;
+  font-family: Consolas,"Courier New",Courier,monospace !important;
 }
 
 p {
@@ -27,6 +27,10 @@ p {
 
 ul, ol {
   list-style-position: inside;
+}
+
+pre ul, pre ol, code ul, code ol {
+  list-style-position: outside;
 }
 
 blockquote p {
