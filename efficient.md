@@ -1,5 +1,6 @@
 ---
 layout: home
+title: 高效
 category: efficient
 ---
 
