@@ -3,6 +3,7 @@ layout: blog
 title: 给出任意一个正整数，算出大于它的最小不重复数[2014百度笔试题]
 category: program
 description: 2014百度笔试题——给出任意一个正整数，算出大于它的最小不重复数，的一个高效解法
+keywords: cpp, 求最小不重复数, 百度笔试题
 ---
 
 ## 题目

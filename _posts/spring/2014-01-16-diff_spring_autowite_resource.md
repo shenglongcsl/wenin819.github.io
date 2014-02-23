@@ -2,8 +2,9 @@
 layout: blog
 title: Spring中@Autowired注解和@Resource注解的区别
 category: program
-tags: spring, java
 description: Spring中@Autowired注解和@Resource注解的区别
+tags: java, spring
+keywords: spring, java, @Autowired, @Resource, 区别
 ---
 
 ### @Autowired注解

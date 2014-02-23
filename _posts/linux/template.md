@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: 博客
-description: 记录一些自己学习心得或想法
-category: blog
-tags: blog
-keywords: blog
+title: 编程之路
+category: program
+description: 记录编程的点点滴滴
+tags: linux
+keywords: linux
 ---
 
 # [this][]

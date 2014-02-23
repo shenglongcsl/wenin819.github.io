@@ -3,6 +3,8 @@ layout: blog
 title: 大学生心理健康
 description: 清华大学公开课:大学生心理健康
 category: blog
+tags: 心理学
+keywords: 生涯规划, 清华公开课, 心理健康
 ---
 
 ## 第一课 生涯规划

@@ -6,7 +6,7 @@
   <meta name="author" content="{{ site.title }}" />
   <a hidden=true href="https://plus.google.com/110224844311103836666/posts?hl=zh-cn?rel=author">Google</a>
   <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}wenin819's Blog{% endif %}" />
-  <meta name="keywords" content="wenin819{% if page.tags %},{{ page.tags }}{% endif %}" />
+  <meta name="keywords" content="wenin819{% if page.keywords %},{{ page.keywords }}{% endif %}" />
   <link rel="icon" type="image/png" href="https://s.gravatar.com/avatar/d5a97fee279a30ff64abaeb2abba9574?s=32" />
   <link rel="alternate" type="application/rss+xml" title="知道2懂得的博客，记录成长的点点滴滴 - Feed" href="/feed.xml" />
   <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
@@ -28,7 +28,8 @@
       }
       if(('' == '{{ site.url }}' || -1 == url.indexOf('{{ site.url }}'))
         && '#' != url.charAt(0)
-        && '/' != url.charAt(0)) {
+        && '/' != url.charAt(0)
+        && -1 == url.indexOf('javascript:void()')) {
         $(this).attr('target', '_blank');
       }
     });

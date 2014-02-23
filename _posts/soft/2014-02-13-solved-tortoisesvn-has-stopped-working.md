@@ -2,8 +2,9 @@
 layout: blog
 title: Tortoisesvn has stopped working 的解决办法
 category: efficient
-tags: svn
 description: Tortoisesvn停止工作的解决办法
+tags: svn
+keywords: svn, Tortoisesvn, 解决办法
 ---
 
 ## 问题现象
