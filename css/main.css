@@ -21,7 +21,7 @@ pre, code {
   font-family: Consolas,"Courier New",Courier,monospace !important;
 }
 
-p {
+.Article-body p {
   text-indent: 2em;
 }
 
