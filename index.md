@@ -2,6 +2,8 @@
 layout: home
 title: 编程
 category: program
+description: 编程分类，记录编程学习中的所见所得
+keywords: 编程
 ---
 
 <div class="row">
