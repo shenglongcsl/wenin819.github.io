@@ -1,7 +1,6 @@
-auto: true
 encoding: UTF-8
 
-pygments: true
+highlighter: pygments
 # paginate: 8
 permalink: /:title
 

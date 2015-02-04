@@ -22,7 +22,7 @@ description: 只要功夫深，铁杵磨成针
 
 1. 评论插件：Disqus
 1. 分享插件：google g+
-1. 分享插件： 百度分享
+1. 分享插件：百度分享
 1. 网站分析：Google Analytics
 
 - - -
